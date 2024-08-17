@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RathnaKumar
-- 👀 I’m interested in J2EE,Microservice Architecture,cloud computing and system design 
+- 👀 I'm a passionate web app developer interested in J2EE,Microservice Architecture,cloud computing and system design
 - 🌱 I’m currently learning React,Cloud computing and distributed caching.
 
 
